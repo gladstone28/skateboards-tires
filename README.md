@@ -5,25 +5,25 @@ Manufacturing skateboards with inflatable tube tires could offer some interestin
 
 ### Advantages:
 
-1. Smoother Ride: Inflatable tires could provide a much smoother ride, especially on rough surfaces, compared to traditional hard skateboard wheels. This would be great for off-road or all-terrain skating.
+**1. Smoother Ride:** Inflatable tires could provide a much smoother ride, especially on rough surfaces, compared to traditional hard skateboard wheels. This would be great for off-road or all-terrain skating.
 
-2. Shock Absorption: These tires would absorb more impact, reducing strain on the rider’s knees and joints, which could attract users looking for more comfort during longer rides.
+**2. Shock Absorption:** These tires would absorb more impact, reducing strain on the rider’s knees and joints, which could attract users looking for more comfort during longer rides.
 
-3. Versatility: Skating on different terrains (grass, dirt, gravel) could become possible, giving your skateboards a unique selling point compared to conventional boards meant only for streets or skateparks.
+**3. Versatility:** Skating on different terrains (grass, dirt, gravel) could become possible, giving your skateboards a unique selling point compared to **conventional boards meant only for streets or skateparks**.
 
-4. Unique Niche Market: This concept could carve out a niche for riders who prefer adventure sports or outdoor exploration, similar to all-terrain longboards or electric boards.
+**4. Unique Niche Market:** This concept could carve out a niche for riders who prefer adventure sports or outdoor exploration, similar to all-terrain longboards or electric boards.
 
 ### Challenges:
 
-1. Durability Issues: Inflatable tires are more prone to punctures, flats, and leaks, which could lead to high maintenance costs or shorter lifespan compared to solid wheels.
+**1. Durability Issues:** Inflatable tires are more prone to punctures, flats, and leaks, which could lead to high maintenance costs or shorter lifespan compared to solid wheels.
 
-2. Increased Weight: The inclusion of inflatable tires and necessary support mechanisms (like air tubes, pumps, and larger axles) could make the skateboard heavier, reducing its appeal for trick skating or street riding.
+**2. Increased Weight:** The inclusion of inflatable tires and necessary support mechanisms (like air tubes, pumps, and larger axles) could make the skateboard heavier, reducing its appeal for trick skating or street riding.
 
-3. Handling and Maneuverability: Traditional skateboard wheels are small and hard, which allows for quick turns and high responsiveness. Inflatable tires, being larger and softer, may make the board less nimble and harder to control, especially at high speeds.
+**3. Handling and Maneuverability:** Traditional skateboard wheels are small and hard, which allows for quick turns and high responsiveness. Inflatable tires, being larger and softer, may make the board less nimble and harder to control, especially at high speeds.
 
-4. Cost: Manufacturing inflatable tube tires could be more expensive than traditional wheels. This might drive up the price of the skateboard, limiting your target market to premium customers.
+**4. Cost:** Manufacturing inflatable tube tires could be more expensive than traditional wheels. This might drive up the price of the skateboard, limiting your target market to premium customers.
 
-5. Design and Engineering Challenges: You would need to redesign the truck and deck structure to accommodate larger, air-filled tires, which would involve significant R&D investment.
+**5. Design and Engineering Challenges:** You would need to redesign the truck and deck structure to accommodate larger, air-filled tires, which would involve significant R&D investment.
 
 ### Recommendations:
 
