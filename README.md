@@ -17,13 +17,13 @@ Manufacturing skateboards with inflatable tube tires could offer some interestin
 
 **1. Durability Issues:** Inflatable tires are more prone to punctures, flats, and leaks, which could lead to high maintenance costs or shorter lifespan compared to solid wheels.
 
-**2. Increased Weight:** The inclusion of inflatable tires and necessary support mechanisms (like air tubes, pumps, and larger axles) could make the skateboard heavier, reducing its appeal for trick skating or street riding.
+**2. Increased Weight:** The inclusion of inflatable tires and necessary support mechanisms (like air tubes, pumps, and larger axles) **could make the skateboard heavier, reducing its appeal for trick skating or street riding**.
 
-**3. Handling and Maneuverability:** Traditional skateboard wheels are small and hard, which allows for quick turns and high responsiveness. Inflatable tires, being larger and softer, may make the board less nimble and harder to control, especially at high speeds.
+**3. Handling and Maneuverability:** Traditional skateboard wheels are small and hard, which allows for quick turns and high responsiveness. Inflatable tires, being larger and softer, may make the board **less nimble and harder to control, especially at high speeds.**
 
-**4. Cost:** Manufacturing inflatable tube tires could be more expensive than traditional wheels. This might drive up the price of the skateboard, limiting your target market to premium customers.
+**4. Cost:** Manufacturing inflatable tube tires could be more expensive than traditional wheels. **This might drive up the price of the skateboard, limiting your target market to premium customers**.
 
-**5. Design and Engineering Challenges:** You would need to redesign the truck and deck structure to accommodate larger, air-filled tires, which would involve significant R&D investment.
+**5. Design and Engineering Challenges:** You would need to redesign the truck and deck structure to accommodate larger, air-filled tires, **which would involve significant R&D investment**.
 
 ### Recommendations:
 
